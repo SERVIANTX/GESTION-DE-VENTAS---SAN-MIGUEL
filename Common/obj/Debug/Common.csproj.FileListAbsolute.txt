@@ -1,0 +1,12 @@
+C:\Users\SERVIANTX\Desktop\Proyecto de gestion de ventas\Common\bin\Debug\Common.dll
+C:\Users\SERVIANTX\Desktop\Proyecto de gestion de ventas\Common\bin\Debug\Common.pdb
+C:\Users\SERVIANTX\Desktop\Proyecto de gestion de ventas\Common\obj\Debug\Common.csprojAssemblyReference.cache
+C:\Users\SERVIANTX\Desktop\Proyecto de gestion de ventas\Common\obj\Debug\Common.csproj.CoreCompileInputs.cache
+C:\Users\SERVIANTX\Desktop\Proyecto de gestion de ventas\Common\obj\Debug\Common.dll
+C:\Users\SERVIANTX\Desktop\Proyecto de gestion de ventas\Common\obj\Debug\Common.pdb
+D:\ESTUDIOS\Ciclo 2\datos para proyecto productivo\Visual\Proyecto de gestion de ventas\Common\bin\Debug\Common.dll
+D:\ESTUDIOS\Ciclo 2\datos para proyecto productivo\Visual\Proyecto de gestion de ventas\Common\bin\Debug\Common.pdb
+D:\ESTUDIOS\Ciclo 2\datos para proyecto productivo\Visual\Proyecto de gestion de ventas\Common\obj\Debug\Common.csprojAssemblyReference.cache
+D:\ESTUDIOS\Ciclo 2\datos para proyecto productivo\Visual\Proyecto de gestion de ventas\Common\obj\Debug\Common.csproj.CoreCompileInputs.cache
+D:\ESTUDIOS\Ciclo 2\datos para proyecto productivo\Visual\Proyecto de gestion de ventas\Common\obj\Debug\Common.dll
+D:\ESTUDIOS\Ciclo 2\datos para proyecto productivo\Visual\Proyecto de gestion de ventas\Common\obj\Debug\Common.pdb

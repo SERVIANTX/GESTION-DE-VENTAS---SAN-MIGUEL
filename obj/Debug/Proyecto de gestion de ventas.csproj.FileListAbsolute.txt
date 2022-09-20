@@ -1,0 +1,384 @@
+C:\Users\ServianTX\Desktop\Proyecto de gestion de ventas\bin\Debug\Proyecto de gestion de ventas.exe.config
+C:\Users\ServianTX\Desktop\Proyecto de gestion de ventas\bin\Debug\Proyecto de gestion de ventas.exe
+C:\Users\ServianTX\Desktop\Proyecto de gestion de ventas\bin\Debug\Proyecto de gestion de ventas.pdb
+C:\Users\ServianTX\Desktop\Proyecto de gestion de ventas\obj\Debug\Proyecto de gestion de ventas.csprojAssemblyReference.cache
+C:\Users\ServianTX\Desktop\Proyecto de gestion de ventas\obj\Debug\Proyecto_de_gestion_de_ventas.FrmLogin.resources
+C:\Users\ServianTX\Desktop\Proyecto de gestion de ventas\obj\Debug\Proyecto_de_gestion_de_ventas.FrmSucursal.resources
+C:\Users\ServianTX\Desktop\Proyecto de gestion de ventas\obj\Debug\Proyecto_de_gestion_de_ventas.FrmCliente.resources
+C:\Users\ServianTX\Desktop\Proyecto de gestion de ventas\obj\Debug\Proyecto_de_gestion_de_ventas.FrmEntradas.resources
+C:\Users\ServianTX\Desktop\Proyecto de gestion de ventas\obj\Debug\Proyecto_de_gestion_de_ventas.FrmGarantia.resources
+C:\Users\ServianTX\Desktop\Proyecto de gestion de ventas\obj\Debug\Proyecto_de_gestion_de_ventas.FrmKardex.resources
+C:\Users\ServianTX\Desktop\Proyecto de gestion de ventas\obj\Debug\Proyecto_de_gestion_de_ventas.FrmNivelSeguridad.resources
+C:\Users\ServianTX\Desktop\Proyecto de gestion de ventas\obj\Debug\Proyecto_de_gestion_de_ventas.FrmPersonal.resources
+C:\Users\ServianTX\Desktop\Proyecto de gestion de ventas\obj\Debug\Proyecto_de_gestion_de_ventas.FrmProductos.resources
+C:\Users\ServianTX\Desktop\Proyecto de gestion de ventas\obj\Debug\Proyecto_de_gestion_de_ventas.FrmProveedor.resources
+C:\Users\ServianTX\Desktop\Proyecto de gestion de ventas\obj\Debug\Proyecto_de_gestion_de_ventas.FrmSalida.resources
+C:\Users\ServianTX\Desktop\Proyecto de gestion de ventas\obj\Debug\Proyecto_de_gestion_de_ventas.FrmTpDoc.resources
+C:\Users\ServianTX\Desktop\Proyecto de gestion de ventas\obj\Debug\Proyecto_de_gestion_de_ventas.FrmVenta.resources
+C:\Users\ServianTX\Desktop\Proyecto de gestion de ventas\obj\Debug\Proyecto_de_gestion_de_ventas.Properties.Resources.resources
+C:\Users\ServianTX\Desktop\Proyecto de gestion de ventas\obj\Debug\Proyecto de gestion de ventas.csproj.GenerateResource.cache
+C:\Users\ServianTX\Desktop\Proyecto de gestion de ventas\obj\Debug\Proyecto de gestion de ventas.csproj.CoreCompileInputs.cache
+C:\Users\ServianTX\Desktop\Proyecto de gestion de ventas\obj\Debug\Proyecto de gestion de ventas.exe
+C:\Users\ServianTX\Desktop\Proyecto de gestion de ventas\obj\Debug\Proyecto de gestion de ventas.pdb
+C:\Users\ServianTX\Desktop\Proyecto de gestion de ventas\obj\Debug\Proyecto_de_gestion_de_ventas.FrmAlmacen1.resources
+D:\backup\Proyecto de gestion de ventas\bin\Debug\Proyecto de gestion de ventas.exe.config
+D:\backup\Proyecto de gestion de ventas\bin\Debug\Proyecto de gestion de ventas.exe
+D:\backup\Proyecto de gestion de ventas\bin\Debug\Proyecto de gestion de ventas.pdb
+D:\backup\Proyecto de gestion de ventas\obj\Debug\Proyecto de gestion de ventas.csprojAssemblyReference.cache
+D:\backup\Proyecto de gestion de ventas\obj\Debug\Proyecto_de_gestion_de_ventas.FrmAlmacen1.resources
+D:\backup\Proyecto de gestion de ventas\obj\Debug\Proyecto_de_gestion_de_ventas.FrmLogin.resources
+D:\backup\Proyecto de gestion de ventas\obj\Debug\Proyecto_de_gestion_de_ventas.FrmSucursal.resources
+D:\backup\Proyecto de gestion de ventas\obj\Debug\Proyecto_de_gestion_de_ventas.FrmCliente.resources
+D:\backup\Proyecto de gestion de ventas\obj\Debug\Proyecto_de_gestion_de_ventas.FrmEntradas.resources
+D:\backup\Proyecto de gestion de ventas\obj\Debug\Proyecto_de_gestion_de_ventas.FrmGarantia.resources
+D:\backup\Proyecto de gestion de ventas\obj\Debug\Proyecto_de_gestion_de_ventas.FrmKardex.resources
+D:\backup\Proyecto de gestion de ventas\obj\Debug\Proyecto_de_gestion_de_ventas.FrmNivelSeguridad.resources
+D:\backup\Proyecto de gestion de ventas\obj\Debug\Proyecto_de_gestion_de_ventas.FrmPadre.resources
+D:\backup\Proyecto de gestion de ventas\obj\Debug\Proyecto_de_gestion_de_ventas.FrmPersonal.resources
+D:\backup\Proyecto de gestion de ventas\obj\Debug\Proyecto_de_gestion_de_ventas.FrmProductos.resources
+D:\backup\Proyecto de gestion de ventas\obj\Debug\Proyecto_de_gestion_de_ventas.FrmProveedor.resources
+D:\backup\Proyecto de gestion de ventas\obj\Debug\Proyecto_de_gestion_de_ventas.FrmSalida.resources
+D:\backup\Proyecto de gestion de ventas\obj\Debug\Proyecto_de_gestion_de_ventas.FrmTpDoc.resources
+D:\backup\Proyecto de gestion de ventas\obj\Debug\Proyecto_de_gestion_de_ventas.FrmUbicacionDelProducto.resources
+D:\backup\Proyecto de gestion de ventas\obj\Debug\Proyecto_de_gestion_de_ventas.FrmVenta.resources
+D:\backup\Proyecto de gestion de ventas\obj\Debug\Proyecto_de_gestion_de_ventas.Properties.Resources.resources
+D:\backup\Proyecto de gestion de ventas\obj\Debug\Proyecto de gestion de ventas.csproj.GenerateResource.cache
+D:\backup\Proyecto de gestion de ventas\obj\Debug\Proyecto de gestion de ventas.csproj.CoreCompileInputs.cache
+D:\backup\Proyecto de gestion de ventas\obj\Debug\Proyecto de gestion de ventas.exe
+D:\backup\Proyecto de gestion de ventas\obj\Debug\Proyecto de gestion de ventas.pdb
+D:\backup\06-11-2020\Proyecto de gestion de ventas\obj\Debug\Proyecto de gestion de ventas.csprojAssemblyReference.cache
+D:\backup\06-11-2020\Proyecto de gestion de ventas\obj\Debug\Proyecto_de_gestion_de_ventas.FrmAlmacen1.resources
+D:\backup\06-11-2020\Proyecto de gestion de ventas\obj\Debug\Proyecto_de_gestion_de_ventas.FrmLogin.resources
+D:\backup\06-11-2020\Proyecto de gestion de ventas\obj\Debug\Proyecto_de_gestion_de_ventas.FrmSucursal.resources
+D:\backup\06-11-2020\Proyecto de gestion de ventas\obj\Debug\Proyecto_de_gestion_de_ventas.FrmCliente.resources
+D:\backup\06-11-2020\Proyecto de gestion de ventas\obj\Debug\Proyecto_de_gestion_de_ventas.FrmEntradas.resources
+D:\backup\06-11-2020\Proyecto de gestion de ventas\obj\Debug\Proyecto_de_gestion_de_ventas.FrmGarantia.resources
+D:\backup\06-11-2020\Proyecto de gestion de ventas\obj\Debug\Proyecto_de_gestion_de_ventas.FrmKardex.resources
+D:\backup\06-11-2020\Proyecto de gestion de ventas\obj\Debug\Proyecto_de_gestion_de_ventas.FrmNivelSeguridad.resources
+D:\backup\06-11-2020\Proyecto de gestion de ventas\obj\Debug\Proyecto_de_gestion_de_ventas.FrmPadre.resources
+D:\backup\06-11-2020\Proyecto de gestion de ventas\obj\Debug\Proyecto_de_gestion_de_ventas.FrmPersonal.resources
+D:\backup\06-11-2020\Proyecto de gestion de ventas\obj\Debug\Proyecto_de_gestion_de_ventas.FrmProductos.resources
+D:\backup\06-11-2020\Proyecto de gestion de ventas\obj\Debug\Proyecto_de_gestion_de_ventas.FrmProveedor.resources
+D:\backup\06-11-2020\Proyecto de gestion de ventas\obj\Debug\Proyecto_de_gestion_de_ventas.FrmSalida.resources
+D:\backup\06-11-2020\Proyecto de gestion de ventas\obj\Debug\Proyecto_de_gestion_de_ventas.FrmTpDoc.resources
+D:\backup\06-11-2020\Proyecto de gestion de ventas\obj\Debug\Proyecto_de_gestion_de_ventas.FrmUbicacionDelProducto.resources
+D:\backup\06-11-2020\Proyecto de gestion de ventas\obj\Debug\Proyecto_de_gestion_de_ventas.FrmVenta.resources
+D:\backup\06-11-2020\Proyecto de gestion de ventas\obj\Debug\Proyecto_de_gestion_de_ventas.Properties.Resources.resources
+D:\backup\06-11-2020\Proyecto de gestion de ventas\obj\Debug\Proyecto_de_gestion_de_ventas.Rpt_Cliente.resources
+D:\backup\06-11-2020\Proyecto de gestion de ventas\obj\Debug\Proyecto de gestion de ventas.csproj.GenerateResource.cache
+D:\backup\06-11-2020\Proyecto de gestion de ventas\obj\Debug\RdlCompile.cache
+D:\backup\06-11-2020\Proyecto de gestion de ventas\obj\Debug\RdlCompile.compiled
+D:\backup\06-11-2020\Proyecto de gestion de ventas\obj\Debug\Proyecto de gestion de ventas.csproj.CoreCompileInputs.cache
+D:\backup\06-11-2020\Proyecto de gestion de ventas\obj\Debug\Proyecto de gestion de ventas.exe
+D:\backup\06-11-2020\Proyecto de gestion de ventas\obj\Debug\Proyecto de gestion de ventas.pdb
+D:\backup\06-11-2020\Proyecto de gestion de ventas\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\backup\06-11-2020\Proyecto de gestion de ventas\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\backup\06-11-2020\Proyecto de gestion de ventas\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\backup\06-11-2020\Proyecto de gestion de ventas\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\backup\06-11-2020\Proyecto de gestion de ventas\bin\Debug\Proyecto de gestion de ventas.exe.config
+D:\backup\06-11-2020\Proyecto de gestion de ventas\bin\Debug\Proyecto de gestion de ventas.exe
+D:\backup\06-11-2020\Proyecto de gestion de ventas\bin\Debug\Proyecto de gestion de ventas.pdb
+D:\backup\06-11-2020\Proyecto de gestion de ventas\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\backup\06-11-2020\Proyecto de gestion de ventas\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\backup\06-11-2020\Proyecto de gestion de ventas\bin\Debug\Microsoft.ReportViewer.Design.dll
+D:\backup\06-11-2020\Proyecto de gestion de ventas\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\backup\06-11-2020\Proyecto de gestion de ventas\bin\Debug\Microsoft.ReportViewer.WebDesign.dll
+D:\backup\06-11-2020\Proyecto de gestion de ventas\bin\Debug\Microsoft.ReportViewer.WebForms.dll
+D:\backup\06-11-2020\Proyecto de gestion de ventas\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\backup\06-11-2020\Proyecto de gestion de ventas\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\backup\06-11-2020\Proyecto de gestion de ventas\bin\Debug\EnvDTE.dll
+D:\backup\06-11-2020\Proyecto de gestion de ventas\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+D:\backup\06-11-2020\Proyecto de gestion de ventas\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+D:\backup\06-11-2020\Proyecto de gestion de ventas\bin\Debug\stdole.dll
+D:\backup\06-11-2020\Proyecto de gestion de ventas\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+D:\backup\06-11-2020\Proyecto de gestion de ventas\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+D:\backup\06-11-2020\Proyecto de gestion de ventas\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+D:\backup\06-11-2020\Proyecto de gestion de ventas\bin\Debug\Microsoft.MSXML.dll
+D:\backup\06-11-2020\Proyecto de gestion de ventas\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\backup\06-11-2020\Proyecto de gestion de ventas\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\backup\06-11-2020\Proyecto de gestion de ventas\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\backup\06-11-2020\Proyecto de gestion de ventas\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\backup\06-11-2020\Proyecto de gestion de ventas\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\backup\06-11-2020\Proyecto de gestion de ventas\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\backup\06-11-2020\Proyecto de gestion de ventas\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\backup\06-11-2020\Proyecto de gestion de ventas\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\backup\06-11-2020\Proyecto de gestion de ventas\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\backup\06-11-2020\Proyecto de gestion de ventas\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\backup\06-11-2020\Proyecto de gestion de ventas\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\backup\06-11-2020\Proyecto de gestion de ventas\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\backup\06-11-2020\Proyecto de gestion de ventas\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\backup\06-11-2020\Proyecto de gestion de ventas\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\backup\06-11-2020\Proyecto de gestion de ventas\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\backup\06-11-2020\Proyecto de gestion de ventas\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\backup\06-11-2020\Proyecto de gestion de ventas\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\backup\06-11-2020\Proyecto de gestion de ventas\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\backup\06-11-2020\Proyecto de gestion de ventas\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\backup\06-11-2020\Proyecto de gestion de ventas\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\backup\06-11-2020\Proyecto de gestion de ventas\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+D:\backup\06-11-2020\Proyecto de gestion de ventas\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+D:\backup\06-11-2020\Proyecto de gestion de ventas\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\backup\06-11-2020\Proyecto de gestion de ventas\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+D:\backup\06-11-2020\Proyecto de gestion de ventas\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\backup\06-11-2020\Proyecto de gestion de ventas\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\backup\06-11-2020\Proyecto de gestion de ventas\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\backup\06-11-2020\Proyecto de gestion de ventas\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\backup\06-11-2020\Proyecto de gestion de ventas\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\backup\06-11-2020\Proyecto de gestion de ventas\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\backup\06-11-2020\Proyecto de gestion de ventas\bin\Debug\de\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\backup\06-11-2020\Proyecto de gestion de ventas\bin\Debug\es\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\backup\06-11-2020\Proyecto de gestion de ventas\bin\Debug\fr\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\backup\06-11-2020\Proyecto de gestion de ventas\bin\Debug\it\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\backup\06-11-2020\Proyecto de gestion de ventas\bin\Debug\ja\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\backup\06-11-2020\Proyecto de gestion de ventas\bin\Debug\ko\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\backup\06-11-2020\Proyecto de gestion de ventas\bin\Debug\pt\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\backup\06-11-2020\Proyecto de gestion de ventas\bin\Debug\ru\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\backup\06-11-2020\Proyecto de gestion de ventas\bin\Debug\zh-CHS\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\backup\06-11-2020\Proyecto de gestion de ventas\bin\Debug\zh-CHT\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\backup\06-11-2020\Proyecto de gestion de ventas\bin\Debug\de\Microsoft.ReportViewer.WebForms.resources.dll
+D:\backup\06-11-2020\Proyecto de gestion de ventas\bin\Debug\es\Microsoft.ReportViewer.WebForms.resources.dll
+D:\backup\06-11-2020\Proyecto de gestion de ventas\bin\Debug\fr\Microsoft.ReportViewer.WebForms.resources.dll
+D:\backup\06-11-2020\Proyecto de gestion de ventas\bin\Debug\it\Microsoft.ReportViewer.WebForms.resources.dll
+D:\backup\06-11-2020\Proyecto de gestion de ventas\bin\Debug\ja\Microsoft.ReportViewer.WebForms.resources.dll
+D:\backup\06-11-2020\Proyecto de gestion de ventas\bin\Debug\ko\Microsoft.ReportViewer.WebForms.resources.dll
+D:\backup\06-11-2020\Proyecto de gestion de ventas\bin\Debug\pt\Microsoft.ReportViewer.WebForms.resources.dll
+D:\backup\06-11-2020\Proyecto de gestion de ventas\bin\Debug\ru\Microsoft.ReportViewer.WebForms.resources.dll
+D:\backup\06-11-2020\Proyecto de gestion de ventas\bin\Debug\zh-CHS\Microsoft.ReportViewer.WebForms.resources.dll
+D:\backup\06-11-2020\Proyecto de gestion de ventas\bin\Debug\zh-CHT\Microsoft.ReportViewer.WebForms.resources.dll
+D:\backup\06-11-2020\Proyecto de gestion de ventas\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\backup\06-11-2020\Proyecto de gestion de ventas\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\backup\06-11-2020\Proyecto de gestion de ventas\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\backup\06-11-2020\Proyecto de gestion de ventas\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\backup\06-11-2020\Proyecto de gestion de ventas\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\backup\06-11-2020\Proyecto de gestion de ventas\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\backup\06-11-2020\Proyecto de gestion de ventas\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\backup\06-11-2020\Proyecto de gestion de ventas\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\backup\06-11-2020\Proyecto de gestion de ventas\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\backup\06-11-2020\Proyecto de gestion de ventas\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\backup\06-11-2020\Proyecto de gestion de ventas\obj\Debug\Proyecto de gestion de ventas.csproj.CopyComplete
+D:\backup\06-11-2020\Proyecto de gestion de ventas\obj\Debug\Proyecto_de_gestion_de_ventas.Rpt_Personal.resources
+D:\backup\06-11-2020\Proyecto de gestion de ventas\obj\Debug\Proyecto_de_gestion_de_ventas.Rpt_Ventas.resources
+D:\backup\06-11-2020\Proyecto de gestion de ventas\obj\Debug\Proyecto_de_gestion_de_ventas.Rpt_Productos.resources
+C:\Users\ServianTX\Desktop\Proyecto de gestion de ventas\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\ServianTX\Desktop\Proyecto de gestion de ventas\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\ServianTX\Desktop\Proyecto de gestion de ventas\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\ServianTX\Desktop\Proyecto de gestion de ventas\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\ServianTX\Desktop\Proyecto de gestion de ventas\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\ServianTX\Desktop\Proyecto de gestion de ventas\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\ServianTX\Desktop\Proyecto de gestion de ventas\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\ServianTX\Desktop\Proyecto de gestion de ventas\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\ServianTX\Desktop\Proyecto de gestion de ventas\bin\Debug\Microsoft.ReportViewer.WebDesign.dll
+C:\Users\ServianTX\Desktop\Proyecto de gestion de ventas\bin\Debug\Microsoft.ReportViewer.WebForms.dll
+C:\Users\ServianTX\Desktop\Proyecto de gestion de ventas\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\ServianTX\Desktop\Proyecto de gestion de ventas\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\ServianTX\Desktop\Proyecto de gestion de ventas\bin\Debug\EnvDTE.dll
+C:\Users\ServianTX\Desktop\Proyecto de gestion de ventas\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\ServianTX\Desktop\Proyecto de gestion de ventas\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\ServianTX\Desktop\Proyecto de gestion de ventas\bin\Debug\stdole.dll
+C:\Users\ServianTX\Desktop\Proyecto de gestion de ventas\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\ServianTX\Desktop\Proyecto de gestion de ventas\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\ServianTX\Desktop\Proyecto de gestion de ventas\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\ServianTX\Desktop\Proyecto de gestion de ventas\bin\Debug\Microsoft.MSXML.dll
+C:\Users\ServianTX\Desktop\Proyecto de gestion de ventas\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ServianTX\Desktop\Proyecto de gestion de ventas\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ServianTX\Desktop\Proyecto de gestion de ventas\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ServianTX\Desktop\Proyecto de gestion de ventas\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ServianTX\Desktop\Proyecto de gestion de ventas\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ServianTX\Desktop\Proyecto de gestion de ventas\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ServianTX\Desktop\Proyecto de gestion de ventas\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ServianTX\Desktop\Proyecto de gestion de ventas\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ServianTX\Desktop\Proyecto de gestion de ventas\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ServianTX\Desktop\Proyecto de gestion de ventas\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ServianTX\Desktop\Proyecto de gestion de ventas\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ServianTX\Desktop\Proyecto de gestion de ventas\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ServianTX\Desktop\Proyecto de gestion de ventas\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ServianTX\Desktop\Proyecto de gestion de ventas\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ServianTX\Desktop\Proyecto de gestion de ventas\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ServianTX\Desktop\Proyecto de gestion de ventas\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ServianTX\Desktop\Proyecto de gestion de ventas\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ServianTX\Desktop\Proyecto de gestion de ventas\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ServianTX\Desktop\Proyecto de gestion de ventas\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ServianTX\Desktop\Proyecto de gestion de ventas\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ServianTX\Desktop\Proyecto de gestion de ventas\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ServianTX\Desktop\Proyecto de gestion de ventas\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ServianTX\Desktop\Proyecto de gestion de ventas\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ServianTX\Desktop\Proyecto de gestion de ventas\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ServianTX\Desktop\Proyecto de gestion de ventas\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ServianTX\Desktop\Proyecto de gestion de ventas\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ServianTX\Desktop\Proyecto de gestion de ventas\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ServianTX\Desktop\Proyecto de gestion de ventas\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ServianTX\Desktop\Proyecto de gestion de ventas\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ServianTX\Desktop\Proyecto de gestion de ventas\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ServianTX\Desktop\Proyecto de gestion de ventas\bin\Debug\de\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\ServianTX\Desktop\Proyecto de gestion de ventas\bin\Debug\es\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\ServianTX\Desktop\Proyecto de gestion de ventas\bin\Debug\fr\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\ServianTX\Desktop\Proyecto de gestion de ventas\bin\Debug\it\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\ServianTX\Desktop\Proyecto de gestion de ventas\bin\Debug\ja\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\ServianTX\Desktop\Proyecto de gestion de ventas\bin\Debug\ko\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\ServianTX\Desktop\Proyecto de gestion de ventas\bin\Debug\pt\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\ServianTX\Desktop\Proyecto de gestion de ventas\bin\Debug\ru\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\ServianTX\Desktop\Proyecto de gestion de ventas\bin\Debug\zh-CHS\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\ServianTX\Desktop\Proyecto de gestion de ventas\bin\Debug\zh-CHT\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\ServianTX\Desktop\Proyecto de gestion de ventas\bin\Debug\de\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\ServianTX\Desktop\Proyecto de gestion de ventas\bin\Debug\es\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\ServianTX\Desktop\Proyecto de gestion de ventas\bin\Debug\fr\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\ServianTX\Desktop\Proyecto de gestion de ventas\bin\Debug\it\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\ServianTX\Desktop\Proyecto de gestion de ventas\bin\Debug\ja\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\ServianTX\Desktop\Proyecto de gestion de ventas\bin\Debug\ko\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\ServianTX\Desktop\Proyecto de gestion de ventas\bin\Debug\pt\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\ServianTX\Desktop\Proyecto de gestion de ventas\bin\Debug\ru\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\ServianTX\Desktop\Proyecto de gestion de ventas\bin\Debug\zh-CHS\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\ServianTX\Desktop\Proyecto de gestion de ventas\bin\Debug\zh-CHT\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\ServianTX\Desktop\Proyecto de gestion de ventas\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ServianTX\Desktop\Proyecto de gestion de ventas\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ServianTX\Desktop\Proyecto de gestion de ventas\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ServianTX\Desktop\Proyecto de gestion de ventas\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ServianTX\Desktop\Proyecto de gestion de ventas\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ServianTX\Desktop\Proyecto de gestion de ventas\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ServianTX\Desktop\Proyecto de gestion de ventas\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ServianTX\Desktop\Proyecto de gestion de ventas\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ServianTX\Desktop\Proyecto de gestion de ventas\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ServianTX\Desktop\Proyecto de gestion de ventas\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ServianTX\Desktop\Proyecto de gestion de ventas\obj\Debug\Proyecto_de_gestion_de_ventas.Rpt_Personal.resources
+C:\Users\ServianTX\Desktop\Proyecto de gestion de ventas\obj\Debug\Proyecto_de_gestion_de_ventas.Rpt_Productos.resources
+C:\Users\ServianTX\Desktop\Proyecto de gestion de ventas\obj\Debug\Proyecto_de_gestion_de_ventas.Rpt_Ventas.resources
+C:\Users\ServianTX\Desktop\Proyecto de gestion de ventas\obj\Debug\Proyecto de gestion de ventas.csproj.CopyComplete
+C:\Users\ServianTX\Desktop\Proyecto de gestion de ventas\obj\Debug\Proyecto_de_gestion_de_ventas.FrmClientes.resources
+C:\Users\ServianTX\Desktop\Proyecto de gestion de ventas\obj\Debug\Proyecto_de_gestion_de_ventas.RptStock.resources
+C:\Users\ServianTX\Desktop\Proyecto de gestion de ventas\bin\Debug\SimpleCrypto.dll
+C:\Users\ServianTX\Desktop\Proyecto de gestion de ventas\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\ServianTX\Desktop\Proyecto de gestion de ventas\obj\Debug\Proyecto_de_gestion_de_ventas.FrmAdmin.resources
+C:\Users\SERVIANTX\Desktop\Proyecto de gestion de ventas\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+C:\Users\SERVIANTX\Desktop\Proyecto de gestion de ventas\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+C:\Users\SERVIANTX\Desktop\Proyecto de gestion de ventas\bin\Debug\Common.dll
+C:\Users\SERVIANTX\Desktop\Proyecto de gestion de ventas\bin\Debug\Common.pdb
+C:\Users\SERVIANTX\Desktop\Proyecto de gestion de ventas\obj\Debug\Proyecto_de_gestion_de_ventas.frmRcp.resources
+C:\Users\SERVIANTX\Desktop\Proyecto de gestion de ventas\obj\Debug\RdlCompile.cache
+C:\Users\SERVIANTX\Desktop\Proyecto de gestion de ventas\obj\Debug\RdlCompile.compiled
+C:\Users\SERVIANTX\Desktop\Proyecto de gestion de ventas\obj\Debug\Proyecto_de_gestion_de_ventas.frmbienvenida.resources
+C:\Users\SERVIANTX\Desktop\Proyecto de gestion de ventas\bin\Debug\CircularProgressBar.dll
+C:\Users\SERVIANTX\Desktop\Proyecto de gestion de ventas\bin\Debug\WinFormAnimation.dll
+C:\Users\SERVIANTX\Desktop\Proyecto de gestion de ventas\bin\Debug\CircularProgressBar.xml
+C:\Users\SERVIANTX\Desktop\Proyecto de gestion de ventas\obj\Debug\Proyecto_de_gestion_de_ventas.inicio.resources
+C:\Users\SERVIANTX\Desktop\Proyecto de gestion de ventas\obj\Debug\Proyecto_de_gestion_de_ventas.FrmAnulacion.resources
+D:\ESTUDIOS\Ciclo 2\datos para proyecto productivo\Visual\Proyecto de gestion de ventas\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\ESTUDIOS\Ciclo 2\datos para proyecto productivo\Visual\Proyecto de gestion de ventas\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\ESTUDIOS\Ciclo 2\datos para proyecto productivo\Visual\Proyecto de gestion de ventas\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\ESTUDIOS\Ciclo 2\datos para proyecto productivo\Visual\Proyecto de gestion de ventas\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\ESTUDIOS\Ciclo 2\datos para proyecto productivo\Visual\Proyecto de gestion de ventas\bin\Debug\Proyecto de gestion de ventas.exe.config
+D:\ESTUDIOS\Ciclo 2\datos para proyecto productivo\Visual\Proyecto de gestion de ventas\bin\Debug\Proyecto de gestion de ventas.exe
+D:\ESTUDIOS\Ciclo 2\datos para proyecto productivo\Visual\Proyecto de gestion de ventas\bin\Debug\Proyecto de gestion de ventas.pdb
+D:\ESTUDIOS\Ciclo 2\datos para proyecto productivo\Visual\Proyecto de gestion de ventas\bin\Debug\CircularProgressBar.dll
+D:\ESTUDIOS\Ciclo 2\datos para proyecto productivo\Visual\Proyecto de gestion de ventas\bin\Debug\Common.dll
+D:\ESTUDIOS\Ciclo 2\datos para proyecto productivo\Visual\Proyecto de gestion de ventas\bin\Debug\FontAwesome.Sharp.dll
+D:\ESTUDIOS\Ciclo 2\datos para proyecto productivo\Visual\Proyecto de gestion de ventas\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\ESTUDIOS\Ciclo 2\datos para proyecto productivo\Visual\Proyecto de gestion de ventas\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\ESTUDIOS\Ciclo 2\datos para proyecto productivo\Visual\Proyecto de gestion de ventas\bin\Debug\Microsoft.ReportViewer.Design.dll
+D:\ESTUDIOS\Ciclo 2\datos para proyecto productivo\Visual\Proyecto de gestion de ventas\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\ESTUDIOS\Ciclo 2\datos para proyecto productivo\Visual\Proyecto de gestion de ventas\bin\Debug\Microsoft.ReportViewer.WebDesign.dll
+D:\ESTUDIOS\Ciclo 2\datos para proyecto productivo\Visual\Proyecto de gestion de ventas\bin\Debug\Microsoft.ReportViewer.WebForms.dll
+D:\ESTUDIOS\Ciclo 2\datos para proyecto productivo\Visual\Proyecto de gestion de ventas\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\ESTUDIOS\Ciclo 2\datos para proyecto productivo\Visual\Proyecto de gestion de ventas\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\ESTUDIOS\Ciclo 2\datos para proyecto productivo\Visual\Proyecto de gestion de ventas\bin\Debug\SimpleCrypto.dll
+D:\ESTUDIOS\Ciclo 2\datos para proyecto productivo\Visual\Proyecto de gestion de ventas\bin\Debug\WinFormAnimation.dll
+D:\ESTUDIOS\Ciclo 2\datos para proyecto productivo\Visual\Proyecto de gestion de ventas\bin\Debug\EnvDTE.dll
+D:\ESTUDIOS\Ciclo 2\datos para proyecto productivo\Visual\Proyecto de gestion de ventas\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+D:\ESTUDIOS\Ciclo 2\datos para proyecto productivo\Visual\Proyecto de gestion de ventas\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+D:\ESTUDIOS\Ciclo 2\datos para proyecto productivo\Visual\Proyecto de gestion de ventas\bin\Debug\stdole.dll
+D:\ESTUDIOS\Ciclo 2\datos para proyecto productivo\Visual\Proyecto de gestion de ventas\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+D:\ESTUDIOS\Ciclo 2\datos para proyecto productivo\Visual\Proyecto de gestion de ventas\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+D:\ESTUDIOS\Ciclo 2\datos para proyecto productivo\Visual\Proyecto de gestion de ventas\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+D:\ESTUDIOS\Ciclo 2\datos para proyecto productivo\Visual\Proyecto de gestion de ventas\bin\Debug\Microsoft.MSXML.dll
+D:\ESTUDIOS\Ciclo 2\datos para proyecto productivo\Visual\Proyecto de gestion de ventas\bin\Debug\Common.pdb
+D:\ESTUDIOS\Ciclo 2\datos para proyecto productivo\Visual\Proyecto de gestion de ventas\bin\Debug\CircularProgressBar.xml
+D:\ESTUDIOS\Ciclo 2\datos para proyecto productivo\Visual\Proyecto de gestion de ventas\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+D:\ESTUDIOS\Ciclo 2\datos para proyecto productivo\Visual\Proyecto de gestion de ventas\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\ESTUDIOS\Ciclo 2\datos para proyecto productivo\Visual\Proyecto de gestion de ventas\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\ESTUDIOS\Ciclo 2\datos para proyecto productivo\Visual\Proyecto de gestion de ventas\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\ESTUDIOS\Ciclo 2\datos para proyecto productivo\Visual\Proyecto de gestion de ventas\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\ESTUDIOS\Ciclo 2\datos para proyecto productivo\Visual\Proyecto de gestion de ventas\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\ESTUDIOS\Ciclo 2\datos para proyecto productivo\Visual\Proyecto de gestion de ventas\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\ESTUDIOS\Ciclo 2\datos para proyecto productivo\Visual\Proyecto de gestion de ventas\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\ESTUDIOS\Ciclo 2\datos para proyecto productivo\Visual\Proyecto de gestion de ventas\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\ESTUDIOS\Ciclo 2\datos para proyecto productivo\Visual\Proyecto de gestion de ventas\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\ESTUDIOS\Ciclo 2\datos para proyecto productivo\Visual\Proyecto de gestion de ventas\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\ESTUDIOS\Ciclo 2\datos para proyecto productivo\Visual\Proyecto de gestion de ventas\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\ESTUDIOS\Ciclo 2\datos para proyecto productivo\Visual\Proyecto de gestion de ventas\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\ESTUDIOS\Ciclo 2\datos para proyecto productivo\Visual\Proyecto de gestion de ventas\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\ESTUDIOS\Ciclo 2\datos para proyecto productivo\Visual\Proyecto de gestion de ventas\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\ESTUDIOS\Ciclo 2\datos para proyecto productivo\Visual\Proyecto de gestion de ventas\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\ESTUDIOS\Ciclo 2\datos para proyecto productivo\Visual\Proyecto de gestion de ventas\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\ESTUDIOS\Ciclo 2\datos para proyecto productivo\Visual\Proyecto de gestion de ventas\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\ESTUDIOS\Ciclo 2\datos para proyecto productivo\Visual\Proyecto de gestion de ventas\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\ESTUDIOS\Ciclo 2\datos para proyecto productivo\Visual\Proyecto de gestion de ventas\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\ESTUDIOS\Ciclo 2\datos para proyecto productivo\Visual\Proyecto de gestion de ventas\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\ESTUDIOS\Ciclo 2\datos para proyecto productivo\Visual\Proyecto de gestion de ventas\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+D:\ESTUDIOS\Ciclo 2\datos para proyecto productivo\Visual\Proyecto de gestion de ventas\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+D:\ESTUDIOS\Ciclo 2\datos para proyecto productivo\Visual\Proyecto de gestion de ventas\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\ESTUDIOS\Ciclo 2\datos para proyecto productivo\Visual\Proyecto de gestion de ventas\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+D:\ESTUDIOS\Ciclo 2\datos para proyecto productivo\Visual\Proyecto de gestion de ventas\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\ESTUDIOS\Ciclo 2\datos para proyecto productivo\Visual\Proyecto de gestion de ventas\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\ESTUDIOS\Ciclo 2\datos para proyecto productivo\Visual\Proyecto de gestion de ventas\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\ESTUDIOS\Ciclo 2\datos para proyecto productivo\Visual\Proyecto de gestion de ventas\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\ESTUDIOS\Ciclo 2\datos para proyecto productivo\Visual\Proyecto de gestion de ventas\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\ESTUDIOS\Ciclo 2\datos para proyecto productivo\Visual\Proyecto de gestion de ventas\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\ESTUDIOS\Ciclo 2\datos para proyecto productivo\Visual\Proyecto de gestion de ventas\bin\Debug\de\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\ESTUDIOS\Ciclo 2\datos para proyecto productivo\Visual\Proyecto de gestion de ventas\bin\Debug\es\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\ESTUDIOS\Ciclo 2\datos para proyecto productivo\Visual\Proyecto de gestion de ventas\bin\Debug\fr\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\ESTUDIOS\Ciclo 2\datos para proyecto productivo\Visual\Proyecto de gestion de ventas\bin\Debug\it\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\ESTUDIOS\Ciclo 2\datos para proyecto productivo\Visual\Proyecto de gestion de ventas\bin\Debug\ja\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\ESTUDIOS\Ciclo 2\datos para proyecto productivo\Visual\Proyecto de gestion de ventas\bin\Debug\ko\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\ESTUDIOS\Ciclo 2\datos para proyecto productivo\Visual\Proyecto de gestion de ventas\bin\Debug\pt\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\ESTUDIOS\Ciclo 2\datos para proyecto productivo\Visual\Proyecto de gestion de ventas\bin\Debug\ru\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\ESTUDIOS\Ciclo 2\datos para proyecto productivo\Visual\Proyecto de gestion de ventas\bin\Debug\zh-CHS\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\ESTUDIOS\Ciclo 2\datos para proyecto productivo\Visual\Proyecto de gestion de ventas\bin\Debug\zh-CHT\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\ESTUDIOS\Ciclo 2\datos para proyecto productivo\Visual\Proyecto de gestion de ventas\bin\Debug\de\Microsoft.ReportViewer.WebForms.resources.dll
+D:\ESTUDIOS\Ciclo 2\datos para proyecto productivo\Visual\Proyecto de gestion de ventas\bin\Debug\es\Microsoft.ReportViewer.WebForms.resources.dll
+D:\ESTUDIOS\Ciclo 2\datos para proyecto productivo\Visual\Proyecto de gestion de ventas\bin\Debug\fr\Microsoft.ReportViewer.WebForms.resources.dll
+D:\ESTUDIOS\Ciclo 2\datos para proyecto productivo\Visual\Proyecto de gestion de ventas\bin\Debug\it\Microsoft.ReportViewer.WebForms.resources.dll
+D:\ESTUDIOS\Ciclo 2\datos para proyecto productivo\Visual\Proyecto de gestion de ventas\bin\Debug\ja\Microsoft.ReportViewer.WebForms.resources.dll
+D:\ESTUDIOS\Ciclo 2\datos para proyecto productivo\Visual\Proyecto de gestion de ventas\bin\Debug\ko\Microsoft.ReportViewer.WebForms.resources.dll
+D:\ESTUDIOS\Ciclo 2\datos para proyecto productivo\Visual\Proyecto de gestion de ventas\bin\Debug\pt\Microsoft.ReportViewer.WebForms.resources.dll
+D:\ESTUDIOS\Ciclo 2\datos para proyecto productivo\Visual\Proyecto de gestion de ventas\bin\Debug\ru\Microsoft.ReportViewer.WebForms.resources.dll
+D:\ESTUDIOS\Ciclo 2\datos para proyecto productivo\Visual\Proyecto de gestion de ventas\bin\Debug\zh-CHS\Microsoft.ReportViewer.WebForms.resources.dll
+D:\ESTUDIOS\Ciclo 2\datos para proyecto productivo\Visual\Proyecto de gestion de ventas\bin\Debug\zh-CHT\Microsoft.ReportViewer.WebForms.resources.dll
+D:\ESTUDIOS\Ciclo 2\datos para proyecto productivo\Visual\Proyecto de gestion de ventas\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\ESTUDIOS\Ciclo 2\datos para proyecto productivo\Visual\Proyecto de gestion de ventas\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\ESTUDIOS\Ciclo 2\datos para proyecto productivo\Visual\Proyecto de gestion de ventas\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\ESTUDIOS\Ciclo 2\datos para proyecto productivo\Visual\Proyecto de gestion de ventas\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\ESTUDIOS\Ciclo 2\datos para proyecto productivo\Visual\Proyecto de gestion de ventas\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\ESTUDIOS\Ciclo 2\datos para proyecto productivo\Visual\Proyecto de gestion de ventas\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\ESTUDIOS\Ciclo 2\datos para proyecto productivo\Visual\Proyecto de gestion de ventas\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\ESTUDIOS\Ciclo 2\datos para proyecto productivo\Visual\Proyecto de gestion de ventas\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\ESTUDIOS\Ciclo 2\datos para proyecto productivo\Visual\Proyecto de gestion de ventas\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\ESTUDIOS\Ciclo 2\datos para proyecto productivo\Visual\Proyecto de gestion de ventas\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\ESTUDIOS\Ciclo 2\datos para proyecto productivo\Visual\Proyecto de gestion de ventas\obj\Debug\Proyecto de gestion de ventas.csprojAssemblyReference.cache
+D:\ESTUDIOS\Ciclo 2\datos para proyecto productivo\Visual\Proyecto de gestion de ventas\obj\Debug\Proyecto_de_gestion_de_ventas.FrmAlmacen1.resources
+D:\ESTUDIOS\Ciclo 2\datos para proyecto productivo\Visual\Proyecto de gestion de ventas\obj\Debug\Proyecto_de_gestion_de_ventas.FrmAnulacion.resources
+D:\ESTUDIOS\Ciclo 2\datos para proyecto productivo\Visual\Proyecto de gestion de ventas\obj\Debug\Proyecto_de_gestion_de_ventas.frmbienvenida.resources
+D:\ESTUDIOS\Ciclo 2\datos para proyecto productivo\Visual\Proyecto de gestion de ventas\obj\Debug\Proyecto_de_gestion_de_ventas.FrmLogin.resources
+D:\ESTUDIOS\Ciclo 2\datos para proyecto productivo\Visual\Proyecto de gestion de ventas\obj\Debug\Proyecto_de_gestion_de_ventas.frmRcp.resources
+D:\ESTUDIOS\Ciclo 2\datos para proyecto productivo\Visual\Proyecto de gestion de ventas\obj\Debug\Proyecto_de_gestion_de_ventas.FrmSucursal.resources
+D:\ESTUDIOS\Ciclo 2\datos para proyecto productivo\Visual\Proyecto de gestion de ventas\obj\Debug\Proyecto_de_gestion_de_ventas.FrmCliente.resources
+D:\ESTUDIOS\Ciclo 2\datos para proyecto productivo\Visual\Proyecto de gestion de ventas\obj\Debug\Proyecto_de_gestion_de_ventas.FrmEntradas.resources
+D:\ESTUDIOS\Ciclo 2\datos para proyecto productivo\Visual\Proyecto de gestion de ventas\obj\Debug\Proyecto_de_gestion_de_ventas.FrmGarantia.resources
+D:\ESTUDIOS\Ciclo 2\datos para proyecto productivo\Visual\Proyecto de gestion de ventas\obj\Debug\Proyecto_de_gestion_de_ventas.FrmKardex.resources
+D:\ESTUDIOS\Ciclo 2\datos para proyecto productivo\Visual\Proyecto de gestion de ventas\obj\Debug\Proyecto_de_gestion_de_ventas.FrmNivelSeguridad.resources
+D:\ESTUDIOS\Ciclo 2\datos para proyecto productivo\Visual\Proyecto de gestion de ventas\obj\Debug\Proyecto_de_gestion_de_ventas.FrmPersonal.resources
+D:\ESTUDIOS\Ciclo 2\datos para proyecto productivo\Visual\Proyecto de gestion de ventas\obj\Debug\Proyecto_de_gestion_de_ventas.FrmProductos.resources
+D:\ESTUDIOS\Ciclo 2\datos para proyecto productivo\Visual\Proyecto de gestion de ventas\obj\Debug\Proyecto_de_gestion_de_ventas.FrmProveedor.resources
+D:\ESTUDIOS\Ciclo 2\datos para proyecto productivo\Visual\Proyecto de gestion de ventas\obj\Debug\Proyecto_de_gestion_de_ventas.FrmSalida.resources
+D:\ESTUDIOS\Ciclo 2\datos para proyecto productivo\Visual\Proyecto de gestion de ventas\obj\Debug\Proyecto_de_gestion_de_ventas.FrmTpDoc.resources
+D:\ESTUDIOS\Ciclo 2\datos para proyecto productivo\Visual\Proyecto de gestion de ventas\obj\Debug\Proyecto_de_gestion_de_ventas.FrmVenta.resources
+D:\ESTUDIOS\Ciclo 2\datos para proyecto productivo\Visual\Proyecto de gestion de ventas\obj\Debug\Proyecto_de_gestion_de_ventas.FrmAdmin.resources
+D:\ESTUDIOS\Ciclo 2\datos para proyecto productivo\Visual\Proyecto de gestion de ventas\obj\Debug\Proyecto_de_gestion_de_ventas.inicio.resources
+D:\ESTUDIOS\Ciclo 2\datos para proyecto productivo\Visual\Proyecto de gestion de ventas\obj\Debug\Proyecto_de_gestion_de_ventas.FrmClientes.resources
+D:\ESTUDIOS\Ciclo 2\datos para proyecto productivo\Visual\Proyecto de gestion de ventas\obj\Debug\Proyecto_de_gestion_de_ventas.Properties.Resources.resources
+D:\ESTUDIOS\Ciclo 2\datos para proyecto productivo\Visual\Proyecto de gestion de ventas\obj\Debug\Proyecto_de_gestion_de_ventas.RptStock.resources
+D:\ESTUDIOS\Ciclo 2\datos para proyecto productivo\Visual\Proyecto de gestion de ventas\obj\Debug\Proyecto_de_gestion_de_ventas.Rpt_Personal.resources
+D:\ESTUDIOS\Ciclo 2\datos para proyecto productivo\Visual\Proyecto de gestion de ventas\obj\Debug\Proyecto_de_gestion_de_ventas.Rpt_Productos.resources
+D:\ESTUDIOS\Ciclo 2\datos para proyecto productivo\Visual\Proyecto de gestion de ventas\obj\Debug\Proyecto_de_gestion_de_ventas.Rpt_Ventas.resources
+D:\ESTUDIOS\Ciclo 2\datos para proyecto productivo\Visual\Proyecto de gestion de ventas\obj\Debug\Proyecto de gestion de ventas.csproj.GenerateResource.cache
+D:\ESTUDIOS\Ciclo 2\datos para proyecto productivo\Visual\Proyecto de gestion de ventas\obj\Debug\Proyecto de gestion de ventas.csproj.CoreCompileInputs.cache
+D:\ESTUDIOS\Ciclo 2\datos para proyecto productivo\Visual\Proyecto de gestion de ventas\obj\Debug\Proyecto de gestion de ventas.csproj.CopyComplete
+D:\ESTUDIOS\Ciclo 2\datos para proyecto productivo\Visual\Proyecto de gestion de ventas\obj\Debug\Proyecto de gestion de ventas.exe
+D:\ESTUDIOS\Ciclo 2\datos para proyecto productivo\Visual\Proyecto de gestion de ventas\obj\Debug\Proyecto de gestion de ventas.pdb
